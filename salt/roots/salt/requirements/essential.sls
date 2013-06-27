@@ -9,3 +9,7 @@ essential-packages:
       - bash
       # - git
       # - tmux
+
+America/Los_Angeles:
+  timezone.system:
+    - utc: True
